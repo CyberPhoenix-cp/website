@@ -1,0 +1,628 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon1.eot?3arvdp');
+  src:  url('../fonts/icomoon1.eot?3arvdp#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon1.ttf?3arvdp') format('truetype'),
+    url('../fonts/icomoon1.woff?3arvdp') format('woff'),
+    url('../fonts/icomoon1.svg?3arvdp#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-professionals:before {
+  content: "\e900";
+}
+.icon-graphic-design:before {
+  content: "\e901";
+}
+.icon-Responsive .path1:before {
+  content: "\e902";
+  color: rgb(0, 190, 189);
+}
+.icon-Responsive .path2:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Responsive .path3:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(0, 170, 168);
+}
+.icon-Responsive .path4:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(80, 217, 215);
+}
+.icon-Responsive .path5:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(255, 172, 0);
+}
+.icon-Responsive .path6:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(0, 170, 168);
+}
+.icon-Responsive .path7:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(243, 243, 243);
+}
+.icon-Responsive .path8:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(234, 152, 7);
+}
+.icon-Responsive .path9:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(0, 190, 189);
+}
+.icon-Responsive .path10:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Responsive .path11:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Responsive .path12:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Responsive .path13:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(80, 217, 215);
+}
+.icon-Responsive .path14:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(0, 190, 189);
+}
+.icon-Responsive .path15:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(0, 190, 189);
+}
+.icon-Responsive .path16:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Responsive .path17:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Responsive .path18:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Responsive .path19:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Responsive .path20:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Responsive .path21:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Responsive .path22:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(255, 172, 0);
+}
+.icon-Logo-design:before {
+  content: "\e918";
+}
+.icon-Fast .path1:before {
+  content: "\e919";
+  color: rgb(255, 182, 0);
+}
+.icon-Fast .path2:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(255, 182, 0);
+}
+.icon-Fast .path3:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(255, 182, 0);
+}
+.icon-Fast .path4:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(45, 49, 66);
+}
+.icon-Fast .path5:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(45, 49, 66);
+}
+.icon-Fast .path6:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(45, 49, 66);
+}
+.icon-Fast .path7:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(45, 49, 66);
+}
+.icon-Fast .path8:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(45, 49, 66);
+}
+.icon-Fast .path9:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(45, 49, 66);
+}
+.icon-Fast .path10:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(45, 49, 66);
+}
+.icon-Fast .path11:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(45, 49, 66);
+}
+.icon-Fast .path12:before {
+  content: "\e924";
+  margin-left: -1em;
+  color: rgb(45, 49, 66);
+}
+.icon-Fast .path13:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(45, 49, 66);
+}
+.icon-Fast .path14:before {
+  content: "\e926";
+  margin-left: -1em;
+  color: rgb(45, 49, 66);
+}
+.icon-Fast .path15:before {
+  content: "\e927";
+  margin-left: -1em;
+  color: rgb(255, 182, 0);
+}
+/* .icon-IOT:before {
+  content: "\e928";
+  font-size: 2em;
+} */
+.icon-Content-writing .path1:before {
+  content: "\e929";
+  color: rgb(62, 62, 244);
+}
+.icon-Content-writing .path2:before {
+  content: "\e92a";
+  margin-left: -1em;
+  color: rgb(62, 62, 244);
+}
+.icon-Content-writing .path3:before {
+  content: "\e92b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Content-writing .path4:before {
+  content: "\e92c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Content-writing .path5:before {
+  content: "\e92d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Content-writing .path6:before {
+  content: "\e92e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Content-writing .path7:before {
+  content: "\e92f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Content-writing .path8:before {
+  content: "\e930";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-App-design:before {
+  content: "\e931";
+}
+.icon-affordable1:before {
+  content: "\e932";
+}
+.icon-App-developement .path1:before {
+  content: "\e933";
+  color: rgb(223, 225, 234);
+}
+.icon-App-developement .path2:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(141, 213, 246);
+}
+.icon-App-developement .path3:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(0, 150, 207);
+}
+.icon-App-developement .path4:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: rgb(0, 150, 207);
+}
+.icon-App-developement .path5:before {
+  content: "\e937";
+  margin-left: -1em;
+  color: rgb(174, 223, 247);
+}
+.icon-App-developement .path6:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(246, 250, 253);
+}
+.icon-App-developement .path7:before {
+  content: "\e939";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-App-developement .path8:before {
+  content: "\e93a";
+  margin-left: -1em;
+  color: rgb(255, 99, 110);
+}
+.icon-App-developement .path9:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: rgb(223, 225, 234);
+}
+.icon-App-developement .path10:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(173, 178, 199);
+}
+.icon-App-developement .path11:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-App-developement .path12:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-App-developement .path13:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-App-developement .path14:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-App-developement .path15:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-App-developement .path16:before {
+  content: "\e942";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-App-developement .path17:before {
+  content: "\e943";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-App-developement .path18:before {
+  content: "\e944";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-App-developement .path19:before {
+  content: "\e945";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Domain:before {
+  content: "\e946";
+}
+.icon-Web-developement .path1:before {
+  content: "\e947";
+  color: rgb(151, 159, 175);
+}
+.icon-Web-developement .path2:before {
+  content: "\e948";
+  margin-left: -1em;
+  color: rgb(173, 178, 199);
+}
+.icon-Web-developement .path3:before {
+  content: "\e949";
+  margin-left: -1em;
+  color: rgb(141, 213, 246);
+}
+.icon-Web-developement .path4:before {
+  content: "\e94a";
+  margin-left: -1em;
+  color: rgb(223, 225, 234);
+}
+.icon-Web-developement:before {
+  content: "\e94b";
+  margin-left: -1em;
+  color: rgb(174, 223, 247);
+}
+.icon-Web-developement .path6:before {
+  content: "\e94c";
+  margin-left: -1em;
+  color: rgb(246, 250, 253);
+}
+.icon-Web-developement .path7:before {
+  content: "\e94d";
+  margin-left: -1em;
+  color: rgb(126, 133, 150);
+}
+.icon-Web-developement .path8:before {
+  content: "\e94e";
+  margin-left: -1em;
+  color: rgb(0, 150, 207);
+}
+.icon-Web-developement .path9:before {
+  content: "\e94f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Web-developement .path10:before {
+  content: "\e950";
+  margin-left: -1em;
+  color: rgb(255, 99, 110);
+}
+.icon-Web-developement .path11:before {
+  content: "\e951";
+  margin-left: -1em;
+  color: rgb(223, 225, 234);
+}
+.icon-Web-developement .path12:before {
+  content: "\e952";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Web-developement .path13:before {
+  content: "\e953";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Web-developement .path14:before {
+  content: "\e954";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Web-developement .path15:before {
+  content: "\e955";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Web-developement .path16:before {
+  content: "\e956";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Web-developement .path17:before {
+  content: "\e957";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Web-developement .path18:before {
+  content: "\e958";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Web-developement .path19:before {
+  content: "\e959";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Web-developement .path20:before {
+  content: "\e95a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Web-developement .path21:before {
+  content: "\e95b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Web-developement .path22:before {
+  content: "\e95c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Web-developement .path23:before {
+  content: "\e95d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Web-developement .path24:before {
+  content: "\e95e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Web-design .path1:before {
+  content: "\e95f";
+  color: rgb(241, 242, 242);
+}
+.icon-Web-design .path2:before {
+  content: "\e960";
+  margin-left: -1em;
+  color: rgb(209, 211, 212);
+}
+.icon-Web-design .path3:before {
+  content: "\e961";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path4:before {
+  content: "\e962";
+  margin-left: -1em;
+  color: rgb(209, 211, 212);
+}
+.icon-Web-design .path5:before {
+  content: "\e963";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Web-design .path6:before {
+  content: "\e964";
+  margin-left: -1em;
+  color: rgb(94, 223, 197);
+}
+.icon-Web-design .path7:before {
+  content: "\e965";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Web-design .path8:before {
+  content: "\e966";
+  margin-left: -1em;
+  color: rgb(245, 171, 53);
+}
+.icon-Web-design .path9:before {
+  content: "\e967";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Web-design .path10:before {
+  content: "\e968";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path11:before {
+  content: "\e969";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path12:before {
+  content: "\e96a";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path13:before {
+  content: "\e96b";
+  margin-left: -1em;
+  color: rgb(54, 215, 183);
+}
+.icon-Web-design .path14:before {
+  content: "\e96c";
+  margin-left: -1em;
+  color: rgb(41, 161, 137);
+}
+.icon-Web-design .path15:before {
+  content: "\e96d";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path16:before {
+  content: "\e96e";
+  margin-left: -1em;
+  color: rgb(245, 171, 53);
+}
+.icon-Web-design .path17:before {
+  content: "\e96f";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path18:before {
+  content: "\e970";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path19:before {
+  content: "\e971";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path20:before {
+  content: "\e972";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path21:before {
+  content: "\e973";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path22:before {
+  content: "\e974";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path23:before {
+  content: "\e975";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path24:before {
+  content: "\e976";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path25:before {
+  content: "\e977";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path26:before {
+  content: "\e978";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path27:before {
+  content: "\e979";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path28:before {
+  content: "\e97a";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Web-design .path29:before {
+  content: "\e97b";
+  margin-left: -1em;
+  color: none;
+}
