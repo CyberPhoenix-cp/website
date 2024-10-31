@@ -147,7 +147,7 @@ game app developer,groww app developer,green app developer,google play store app
 <input type="hidden" name="_captcha" value="false">
 <input type="hidden" name="_autoresponse" value="Thank you for reaching out to us through our website! We appreciate your interest in our services. we’re excited to assist you and will get back to you shortly to address your queries or concerns.">
 <input type="hidden" name="_template" value="table">
-<input type="hidden" name="_next" value="http://127.0.0.1:5500/thankyou.html">
+<input type="hidden" name="_next" value="https://cyberphoenix.in/thankyou.html">
 <button id="submit" class="default-btn" type="submit">Send Message</button>
 </div>
 </div>
@@ -187,13 +187,13 @@ game app developer,groww app developer,green app developer,google play store app
     </div>
     <div class="col-lg-4 col-sm-6 sm-padding">
     <div class="widget-content">
-    <h4>Newslatter Subscription</h4>
+    <h4>Newsletter Subscription</h4>
     <p>Subscribe and get 10% off from our <br>Cyber Phoenix.</p>
     <div class="subscribe-box clearfix">
     <div class="subscribe-form-wrap">
     <form action="#" class="subscribe-form">
     <input type="email" name="email" id="subs-email" class="form-input" placeholder="Enter Your Email Address...">
-    <button type="submit" class="submit-btn">Subscribe</button>
+    <button type="submit" class="submit-btn"onclick="myAlert()">Subscribe</button>
     <div id="subscribe-result">
     <p class="subscription-success"></p>
     <p class="subscription-error"></p>
@@ -258,7 +258,12 @@ game app developer,groww app developer,green app developer,google play store app
     
     <script src="js/vendor/wow.min.js"></script>
     
-    <script src="js/main.js"></script>
+    <script src="js/main.js"></script>  
+ <script>
+function myAlert() {
+  alert("Sorry! Subscription is currently unavailable");
+}
+</script>
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
     </body>
